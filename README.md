@@ -4,12 +4,13 @@
 **CS:GO Market** - one of the largest stores of virtual items from the CS:GO
 
 **Market** - https://market.csgo.com/
+
 **API Documentation** - https://market.csgo.com/docs-v2
 
 # Installation
 Install current version with [PyPi]():
 ```bash
-pip install  *NAME*
+pip install csgotm-py==0.1.0
 ```
 Or from GitHub:
 ```bash
