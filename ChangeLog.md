@@ -2,3 +2,4 @@
 - Account API
 - Setting up initial requirements
 - First commit
+- Uploaded on PyPi
