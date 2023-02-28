@@ -4,7 +4,7 @@
 - "First commit"
 - Uploaded on PyPi
 
-#v0.2.0
+# v0.2.0
 
 - Refactored the structure of module
 - Added exceptions
