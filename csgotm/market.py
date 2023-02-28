@@ -77,7 +77,7 @@ class Market():
         if response['success'] == True:
             return response
         else:
-            raise DataOrApiKeyError('Data not available and/or missing. Check API Key')
+            raise DataOrApiKeyError()
 
     def go_offline(self) -> dict:
         response = requests.post(f'https://market.csgo.com/api/v2/go-offline?key={self.token}').json()
